@@ -10,7 +10,7 @@ The details of the systems are as follows:
 1. The converter uses 6 thyristors fired at a phase difference of 30° (firing angle is 0°) to convert the input 50Hz voltage into DC output.
 2. The gate-triggering signals for each thyristor has been generated using the _Pulse Generator_ block in Simulink, with a frequency of 50Hz.\
 \
-![6-pulse converter]("C:\Users\HP\Downloads\Images\6-pulse_Converter.png")
+![6-pulse converter](/Images/6-pulse_Converter.png)
 
 ## Buck Converter
 A PWM-controlled buck converter has been used to change the desired dc voltage level. 
